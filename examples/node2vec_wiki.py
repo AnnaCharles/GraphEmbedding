@@ -47,17 +47,17 @@ def plot_embeddings(embeddings,):
         emb_list.append(embeddings[k])
     emb_list = np.array(emb_list)
 
-    model = TSNE(n_components=2)
+    model = TSNE(n_components=3)
     node_pos = model.fit_transform(emb_list)
 
     with open("../data/medias.csv") as file:
         with open("nodes.csv", "w") as csvfile:
-            headers = ["x", "y", "label", "category"]
+            headers = ["x", "y","z", "label", "category"]
             writer = csv.DictWriter(csvfile, fieldnames=headers)
             writer.writeheader()
             for idx in range(len(node_pos)):
                 writer.writerow(
-                    {"x": node_pos[idx, 0], "y": node_pos[idx, 1], "label": labels[idx], "category": categories[idx]})
+                    {"x": node_pos[idx, 0], "y": node_pos[idx, 1],"z":node_pos[idx, 2], "label": labels[idx], "category": categories[idx]})
 
     color_idx = {}
     for i in range(len(X)):
@@ -65,7 +65,7 @@ def plot_embeddings(embeddings,):
         color_idx[Y[i][0]].append(i)
 
     data = pd.read_csv("nodes.csv")
-    fig = px.scatter(data, x="x", y="y", hover_data="label", color="category")
+    fig = px.scatter_3d(data, x="x", y="y",z="z", hover_data="label", color="category")
 
     fig.show()
 

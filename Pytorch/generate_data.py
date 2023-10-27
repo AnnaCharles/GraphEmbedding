@@ -12,23 +12,27 @@ for e in G.edges.data() :
 
 with open("medias.csv",'r') as file :
     trie = NormalizedLRUTrie()
+    triesub=NormalizedLRUTrie()
     reader = csv.DictReader(file)
     for row in reader :
         trie.set(row['home_page'],row['wheel_category'])
+        trie.set(row['home_page'],row['wheel_subcategory'])
 
 
 
 with open("medias_Fr_2023+metas2020.csv",'r') as csvfile :
     with open('media_labels.csv','w') as file :
         reader = csv.DictReader(csvfile)
-        writer = csv.DictWriter(file, fieldnames=["id","name","category"])
+        writer = csv.DictWriter(file, fieldnames=["id","name","category","sub_category"])
         writer.writeheader()
         for row in reader :
             #if  noeuds[row['ID']] != 0 :
             category=trie.match(row['HOME PAGE']) if trie.match(row['HOME PAGE']) !=None else ""
-            ligne=str(row['ID'])+" "+row['NAME']+" "+str(trie.match(row['HOME PAGE'])) +"\n" if trie.match(row['HOME PAGE']) !=None else str(row['ID'])+" "+row['NAME']+"\n"
+            subcategory=trie.match(row['HOME PAGE']) if trie.match(row['HOME PAGE']) !=None else ""
+
             writer.writerow({
                 "id":row['ID'],
                 "name":row['NAME'],
-                "category":category
+                "category":category,
+                "sub_category": subcategory
                             })

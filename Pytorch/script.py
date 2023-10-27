@@ -79,22 +79,25 @@ for epoch in range(1, 50):
 def plot_points():
     model.eval()
     z = model().cpu().numpy()
-    z = TSNE(n_components=2,perplexity=5).fit_transform(z)
+    z = TSNE(n_components=3,perplexity=5).fit_transform(z)
 
     coord_x=[]
     coord_y=[]
+    coord_z=[]
     categories=[]
     labels=[]
     index=[]
 
     for i,id in enumerate(node_label.keys()) :
-        coord_x.append(z[i, 0])
-        coord_y.append(z[i, 1])
-        categories.append(node_class[id])
-        index.append(id)
-        labels.append(node_label[id])
+        if node_class[id] != "":
+            coord_x.append(z[i, 0])
+            coord_y.append(z[i, 1])
+            coord_z.append(z[i, 2])
+            categories.append(node_class[id])
+            index.append(id)
+            labels.append(node_label[id])
 
-    fig = px.scatter(data, x=coord_x, y=coord_y, hover_name=labels, color=categories)
+    fig = px.scatter_3d(data, x=coord_x, y=coord_y,z=coord_z, hover_name=labels, color=categories)
     fig.show()
 
 
