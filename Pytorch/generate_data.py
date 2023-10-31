@@ -16,7 +16,7 @@ with open("medias.csv",'r') as file :
     reader = csv.DictReader(file)
     for row in reader :
         trie.set(row['home_page'],row['wheel_category'])
-        trie.set(row['home_page'],row['wheel_subcategory'])
+        #trie.set(row['home_page'],row['wheel_subcategory'])
 
 
 

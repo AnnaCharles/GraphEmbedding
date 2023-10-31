@@ -1,318 +1,318 @@
 id,name,category,sub_category
-1,Bfmtv.com,Hyper-centre,Hyper-centre
-2,Lemonde.fr,Hyper-centre,Hyper-centre
-3,Leparisien.fr,Hyper-centre,Hyper-centre
-4,Francetvinfo.fr,Hyper-centre,Hyper-centre
-5,Lefigaro.fr,Hyper-centre,Hyper-centre
-6,Liberation.fr,Hyper-centre,Hyper-centre
-7,Fdesouche.com,Identitarian,Identitarian
-8,Mediapart.fr,Left Wing,Left Wing
-9,Ouest-France.fr,Hyper-centre,Hyper-centre
-10,Lepoint.fr,Hyper-centre,Hyper-centre
-11,Nouvelobs.com,Centre,Centre
-12,Marianne.net,Left Wing,Left Wing
+1,Bfmtv.com,Mainstream Media,Mainstream Media
+2,Lemonde.fr,Mainstream Media,Mainstream Media
+3,Leparisien.fr,Mainstream Media,Mainstream Media
+4,Francetvinfo.fr,Mainstream Media,Mainstream Media
+5,Lefigaro.fr,Mainstream Media,Mainstream Media
+6,Liberation.fr,Mainstream Media,Mainstream Media
+7,Fdesouche.com,Counter-Informational Space,Counter-Informational Space
+8,Mediapart.fr,Opinion Journalism,Opinion Journalism
+9,Ouest-France.fr,Mainstream Media,Mainstream Media
+10,Lepoint.fr,Mainstream Media,Mainstream Media
+11,Nouvelobs.com,Mainstream Media,Mainstream Media
+12,Marianne.net,Opinion Journalism,Opinion Journalism
 13,Tf1Info.fr,,
-14,Lesechos.fr,Centre,Centre
-15,Huffingtonpost.fr,Hyper-centre,Hyper-centre
-16,Lejdd.fr,Hyper-centre,Hyper-centre
-17,Francebleu.fr,Hyper-centre,Hyper-centre
-18,Valeursactuelles.com,Right Wing,Right Wing
-19,Cnews.fr,PQR & Mag,PQR & Mag
-20,Limportant.fr,Centre,Centre
-21,Actu.fr,PQR & Mag,PQR & Mag
-22,Sudouest.fr,PQR & Mag,PQR & Mag
-23,Francesoir.fr,Centre,Centre
-24,20Minutes.fr,Hyper-centre,Hyper-centre
-25,Lequipe.fr,Hyper-centre,Hyper-centre
-26,Lexpress.fr,Hyper-centre,Hyper-centre
+14,Lesechos.fr,Mainstream Media,Mainstream Media
+15,Huffingtonpost.fr,Mainstream Media,Mainstream Media
+16,Lejdd.fr,Mainstream Media,Mainstream Media
+17,Francebleu.fr,Mainstream Media,Mainstream Media
+18,Valeursactuelles.com,Opinion Journalism,Opinion Journalism
+19,Cnews.fr,Periphery,Periphery
+20,Limportant.fr,Mainstream Media,Mainstream Media
+21,Actu.fr,Periphery,Periphery
+22,Sudouest.fr,Periphery,Periphery
+23,Francesoir.fr,Mainstream Media,Mainstream Media
+24,20Minutes.fr,Mainstream Media,Mainstream Media
+25,Lequipe.fr,Mainstream Media,Mainstream Media
+26,Lexpress.fr,Mainstream Media,Mainstream Media
 27,Radiofrance.fr,,
-28,Planetes360.fr,Right Wing,Right Wing
-31,Ladepeche.fr,Hyper-centre,Hyper-centre
-32,Midilibre.fr,PQR & Mag,PQR & Mag
+28,Planetes360.fr,Opinion Journalism,Opinion Journalism
+31,Ladepeche.fr,Mainstream Media,Mainstream Media
+32,Midilibre.fr,Periphery,Periphery
 33,Lemediaen442.fr,,
-34,Lavoixdunord.fr,Hyper-centre,Hyper-centre
-35,Lecourrier-Du-Soir.com,Right Wing,Right Wing
+34,Lavoixdunord.fr,Mainstream Media,Mainstream Media
+35,Lecourrier-Du-Soir.com,Opinion Journalism,Opinion Journalism
 36,Lecourrierdesstrateges.fr,,
-37,Latribune.fr,Centre,Centre
-39,Courrierinternational.com,Centre,Centre
-41,Europe1.fr,Hyper-centre,Hyper-centre
-42,Lopinion.fr,Centre,Centre
-43,Parismatch.com,PQR & Mag,PQR & Mag
-44,La-Croix.com,Centre,Centre
-45,Letelegramme.fr,PQR & Mag,PQR & Mag
-46,Capital.fr,Centre,Centre
+37,Latribune.fr,Mainstream Media,Mainstream Media
+39,Courrierinternational.com,Mainstream Media,Mainstream Media
+41,Europe1.fr,Mainstream Media,Mainstream Media
+42,Lopinion.fr,Mainstream Media,Mainstream Media
+43,Parismatch.com,Periphery,Periphery
+44,La-Croix.com,Mainstream Media,Mainstream Media
+45,Letelegramme.fr,Periphery,Periphery
+46,Capital.fr,Mainstream Media,Mainstream Media
 47,France.tv,,
-48,Jeanmarcmorandini.com,PQR & Mag,PQR & Mag
-49,Publicsenat.fr,PQR & Mag,PQR & Mag
-50,Bvoltaire.fr,Identitarian,Identitarian
-51,Rtl.fr,Hyper-centre,Hyper-centre
-52,Leprogres.fr,Hyper-local (East),Hyper-local (East)
-53,Legorafi.fr,PQR & Mag,PQR & Mag
-54,Ledauphine.com,Hyper-local (East),Hyper-local (East)
-55,Rfi.fr,Centre,Centre
+48,Jeanmarcmorandini.com,Periphery,Periphery
+49,Publicsenat.fr,Periphery,Periphery
+50,Bvoltaire.fr,Counter-Informational Space,Counter-Informational Space
+51,Rtl.fr,Mainstream Media,Mainstream Media
+52,Leprogres.fr,Periphery,Periphery
+53,Legorafi.fr,Periphery,Periphery
+54,Ledauphine.com,Periphery,Periphery
+55,Rfi.fr,Mainstream Media,Mainstream Media
 56,Afp.com,,
-57,Reporterre.net,Left Wing,Left Wing
-58,Reseauinternational.net,Revolutionary Right,Revolutionary Right
+57,Reporterre.net,Opinion Journalism,Opinion Journalism
+58,Reseauinternational.net,Counter-Informational Space,Counter-Informational Space
 59,France24.com,,
-60,Challenges.fr,Centre,Centre
-61,Humanite.fr,Left Wing,Left Wing
-62,Laprovence.com,PQR & Mag,PQR & Mag
-63,Lindependant.fr,PQR & Mag,PQR & Mag
-65,Slate.fr,Centre,Centre
+60,Challenges.fr,Mainstream Media,Mainstream Media
+61,Humanite.fr,Opinion Journalism,Opinion Journalism
+62,Laprovence.com,Periphery,Periphery
+63,Lindependant.fr,Periphery,Periphery
+65,Slate.fr,Mainstream Media,Mainstream Media
 66,Arte.tv,,
 67,Footmercato.net,,
-68,Telerama.fr,Centre,Centre
+68,Telerama.fr,Mainstream Media,Mainstream Media
 69,Pgibertie.com,,
-70,Estrepublicain.fr,Hyper-local (East),Hyper-local (East)
+70,Estrepublicain.fr,Periphery,Periphery
 71,Arretsurimages.net,,
-72,Actu17.fr,PQR & Mag,PQR & Mag
-73,Atlantico.fr,Right Wing,Right Wing
+72,Actu17.fr,Periphery,Periphery
+73,Atlantico.fr,Opinion Journalism,Opinion Journalism
 74,Linsoumission.fr,,
-75,Streetpress.com,Left Wing,Left Wing
-76,Ripostelaique.com,Identitarian,Identitarian
-77,Numerama.com,Centre,Centre
+75,Streetpress.com,Opinion Journalism,Opinion Journalism
+76,Ripostelaique.com,Counter-Informational Space,Counter-Informational Space
+77,Numerama.com,Mainstream Media,Mainstream Media
 78,Anguillesousroche.com,,
 79,Policeetrealites.com,,
-80,Nicematin.com,PQR & Mag,PQR & Mag
-81,Causeur.fr,Right Wing,Right Wing
-82,Lamontagne.fr,Hyper-local (East),Hyper-local (East)
-83,Alternatives-Economiques.fr,Left Wing,Left Wing
+80,Nicematin.com,Periphery,Periphery
+81,Causeur.fr,Opinion Journalism,Opinion Journalism
+82,Lamontagne.fr,Periphery,Periphery
+83,Alternatives-Economiques.fr,Opinion Journalism,Opinion Journalism
 84,K-Gen.fr,,
-85,Sciencesetavenir.fr,Hyper-centre,Hyper-centre
+85,Sciencesetavenir.fr,Mainstream Media,Mainstream Media
 86,Mediavenir.fr,,
-87,Epochtimes.fr,Right Wing,Right Wing
+87,Epochtimes.fr,Opinion Journalism,Opinion Journalism
 88,30Millionsdamis.fr,,
 89,Aa.com.tr /fr,,
 90,Cafepedagogique.net,,
-91,Tv5Monde.com,Centre,Centre
-92,Gala.fr,Leisure and Health,Leisure and Health
-93,Monde-Diplomatique.fr,Left Wing,Left Wing
+91,Tv5Monde.com,Mainstream Media,Mainstream Media
+92,Gala.fr,Periphery,Periphery
+93,Monde-Diplomatique.fr,Opinion Journalism,Opinion Journalism
 94,Crowdbunker.com,,
 95,Theconversation.com,,
-96,Lyonmag.com,Right Wing,Right Wing
+96,Lyonmag.com,Opinion Journalism,Opinion Journalism
 97,Off-Investigation.fr,,
 98,Lanouvellerepublique.fr,,
-99,Varmatin.com,PQR & Mag,PQR & Mag
+99,Varmatin.com,Periphery,Periphery
 100,Disclose.ngo,,
 101,Qactus.fr,,
 102,Basta.media,,
 103,I24News.tv,,
 104,Qg.media,,
-105,Dna.fr,Hyper-local (East),Hyper-local (East)
+105,Dna.fr,Periphery,Periphery
 106,Eurosport.fr,,
 107,Limportante.fr,,
-108,fr.Euronews.com,Centre,Centre
-109,Sofoot.com,PQR & Mag,PQR & Mag
+108,fr.Euronews.com,Mainstream Media,Mainstream Media
+109,Sofoot.com,Periphery,Periphery
 110,Lecanardenchaine.fr,,
-111,Futura-Sciences.com,Hyper-centre,Hyper-centre
-112,fr.Sott.net,Alternative Health,Alternative Health
-113,Bienpublic.com,Hyper-local (East),Hyper-local (East)
-114,Charliehebdo.fr,PQR & Mag,PQR & Mag
-115,Businessbourse.com,Revolutionary Right,Revolutionary Right
+111,Futura-Sciences.com,Mainstream Media,Mainstream Media
+112,fr.Sott.net,Counter-Informational Space,Counter-Informational Space
+113,Bienpublic.com,Periphery,Periphery
+114,Charliehebdo.fr,Periphery,Periphery
+115,Businessbourse.com,Counter-Informational Space,Counter-Informational Space
 116,Wynfoot.fr,,
-117,Frandroid.com,IT & Consumer,IT & Consumer
-118,Ozap.com,Centre,Centre
+117,Frandroid.com,Periphery,Periphery
+118,Ozap.com,Mainstream Media,Mainstream Media
 119,Cogiito.com,,
 120,Apar.tv,,
 121,Trashtalk.co,,
 122,Profession-Gendarme.com,,
 123,Lalettrea.fr,,
-124,Republicain-Lorrain.fr,Hyper-local (East),Hyper-local (East)
-125,Journaldugeek.com,IT & Consumer,IT & Consumer
-126,Lesjours.fr,Left Wing,Left Wing
-127,Contrepoints.org,Right Wing,Right Wing
+124,Republicain-Lorrain.fr,Periphery,Periphery
+125,Journaldugeek.com,Periphery,Periphery
+126,Lesjours.fr,Opinion Journalism,Opinion Journalism
+127,Contrepoints.org,Opinion Journalism,Opinion Journalism
 128,Euractiv.fr,,
-129,Courrier-Picard.fr,PQR & Mag,PQR & Mag
+129,Courrier-Picard.fr,Periphery,Periphery
 130,Infodujour.fr,,
-132,Politis.fr,Left Wing,Left Wing
+132,Politis.fr,Opinion Journalism,Opinion Journalism
 133,Guyboulianne.info,,
-134,Lelibrepenseur.org,Alternative Health,Alternative Health
+134,Lelibrepenseur.org,Counter-Informational Space,Counter-Informational Space
 135,Blast-Info.fr,,
-136,Europe-Israel.org,Identitarian,Identitarian
-137,Lequotidiendumedecin.fr,PQR & Mag,PQR & Mag
-138,Geo.fr,Leisure and Health,Leisure and Health
+136,Europe-Israel.org,Counter-Informational Space,Counter-Informational Space
+137,Lequotidiendumedecin.fr,Periphery,Periphery
+138,Geo.fr,Periphery,Periphery
 139,Frontpopulaire.fr,,
-140,Putsch.media,PQR & Mag,PQR & Mag
-141,Public.fr,Leisure and Health,Leisure and Health
-142,Lalsace.fr,Hyper-local (East),Hyper-local (East)
+140,Putsch.media,Periphery,Periphery
+141,Public.fr,Periphery,Periphery
+142,Lalsace.fr,Periphery,Periphery
 143,Frustrationmagazine.fr,,
-144,Breizh-Info.com,Identitarian,Identitarian
+144,Breizh-Info.com,Counter-Informational Space,Counter-Informational Space
 145,Canal-Supporters.com,,
-147,Nextinpact.com,IT & Consumer,IT & Consumer
-148,Lesalonbeige.fr,Identitarian,Identitarian
-149,Paris-Normandie.fr,PQR & Mag,PQR & Mag
-150,Boursorama.com,Centre,Centre
+147,Nextinpact.com,Periphery,Periphery
+148,Lesalonbeige.fr,Counter-Informational Space,Counter-Informational Space
+149,Paris-Normandie.fr,Periphery,Periphery
+150,Boursorama.com,Mainstream Media,Mainstream Media
 151,Sudradio.fr,,
-152,Usinenouvelle.com,IT & Consumer,IT & Consumer
+152,Usinenouvelle.com,Periphery,Periphery
 153,Entreprendre.fr,,
-154,Lemediatv.fr,Left Wing,Left Wing
+154,Lemediatv.fr,Opinion Journalism,Opinion Journalism
 155,Actualitte.com,,
-156,Elle.fr,Leisure and Health,Leisure and Health
+156,Elle.fr,Periphery,Periphery
 157,Bonpote.com,,
-158,Closermag.fr,Hyper-centre,Hyper-centre
+158,Closermag.fr,Mainstream Media,Mainstream Media
 159,Allocine.fr,,
 160,Blogrioufol.com,,
 161,Legrandcontinent.eu,,
-162,Presse-Citron.net,IT & Consumer,IT & Consumer
-163,Medias-Presse.info,Identitarian,Identitarian
-164,Voici.fr,Leisure and Health,Leisure and Health
-165,Programme-Television.org,Leisure and Health,Leisure and Health
+162,Presse-Citron.net,Periphery,Periphery
+163,Medias-Presse.info,Counter-Informational Space,Counter-Informational Space
+164,Voici.fr,Periphery,Periphery
+165,Programme-Television.org,Periphery,Periphery
 166,Lesdeqodeurs.fr,,
 167,Franc-Tireur.fr,,
-169,Clubic.com,IT & Consumer,IT & Consumer
-170,Corsematin.com,PQR & Mag,PQR & Mag
+169,Clubic.com,Periphery,Periphery
+170,Corsematin.com,Periphery,Periphery
 171,Lincorrect.org,,
-172,Lunion.fr,PQR & Mag,PQR & Mag
-173,Resistancerepublicaine.com,Identitarian,Identitarian
+172,Lunion.fr,Periphery,Periphery
+173,Resistancerepublicaine.com,Counter-Informational Space,Counter-Informational Space
 174,Nexus.fr,,
 175,Siecledigital.fr,,
-176,01Net.com,IT & Consumer,IT & Consumer
-177,Marieclaire.fr,Leisure and Health,Leisure and Health
-178,Crashdebug.fr,Alternative Health,Alternative Health
-179,Premiere.fr,Leisure and Health,Leisure and Health
+176,01Net.com,Periphery,Periphery
+177,Marieclaire.fr,Periphery,Periphery
+178,Crashdebug.fr,Counter-Informational Space,Counter-Informational Space
+179,Premiere.fr,Periphery,Periphery
 180,Covid-Factuel.fr,,
 181,Francemediasnumerique.net,,
 182,Konbini.com,,
-183,Les-Crises.fr,Revolutionary Right,Revolutionary Right
-184,Purepeople.com,Leisure and Health,Leisure and Health
+183,Les-Crises.fr,Counter-Informational Space,Counter-Informational Space
+184,Purepeople.com,Periphery,Periphery
 185,Journalducoin.com,,
-186,Acrimed.org,Left Wing,Left Wing
+186,Acrimed.org,Opinion Journalism,Opinion Journalism
 187,Blogdumoderateur.com,,
-188,Vogue.fr,Leisure and Health,Leisure and Health
+188,Vogue.fr,Periphery,Periphery
 189,Actu-Juridique.fr,,
-190,Vice.com /fr,Centre,Centre
+190,Vice.com /fr,Mainstream Media,Mainstream Media
 191,Actu-Environnement.com,,
 192,Ladn.eu,,
-193,Revolutionpermanente.fr,Left Wing,Left Wing
+193,Revolutionpermanente.fr,Opinion Journalism,Opinion Journalism
 194,Nationalgeographic.fr,,
 195,Tetu.com,,
 197,Jeuxvideo.com,,
-198,Orientxxi.info,Left Wing,Left Wing
+198,Orientxxi.info,Opinion Journalism,Opinion Journalism
 199,Regards.fr,,
-200,Mediacites.fr,Left Wing,Left Wing
+200,Mediacites.fr,Opinion Journalism,Opinion Journalism
 201,Football-Addict.com /fr,,
 202,Cerfia.fr,,
-203,Lcp.fr,Hyper-local (East),Hyper-local (East)
+203,Lcp.fr,Periphery,Periphery
 204,Aefinfo.fr,,
 205,Culturepsg.com,,
-206,Lesinrocks.com,Centre,Centre
-207,Usine-Digitale.fr,IT & Consumer,IT & Consumer
+206,Lesinrocks.com,Mainstream Media,Mainstream Media
+207,Usine-Digitale.fr,Periphery,Periphery
 208,Usbeketrica.com,,
 209,Cryptoast.fr,,
-210,Positivr.fr,Leisure and Health,Leisure and Health
-211,Egaliteetreconciliation.fr,Revolutionary Right,Revolutionary Right
-212,Larepubliquedespyrenees.fr,PQR & Mag,PQR & Mag
-214,Lyoncapitale.fr,Right Wing,Right Wing
+210,Positivr.fr,Periphery,Periphery
+211,Egaliteetreconciliation.fr,Counter-Informational Space,Counter-Informational Space
+212,Larepubliquedespyrenees.fr,Periphery,Periphery
+214,Lyoncapitale.fr,Opinion Journalism,Opinion Journalism
 215,Meteofrance.fr,,
-216,Opex360.com,Right Wing,Right Wing
+216,Opex360.com,Opinion Journalism,Opinion Journalism
 217,Lalettrepatriote.com,,
 218,Geopolitique-Profonde.com,,
-219,Zonebourse.com,IT & Consumer,IT & Consumer
-220,Femmeactuelle.fr,Leisure and Health,Leisure and Health
-221,Lepopulaire.fr,Hyper-local (East),Hyper-local (East)
-222,Larep.fr,Hyper-local (East),Hyper-local (East)
+219,Zonebourse.com,Periphery,Periphery
+220,Femmeactuelle.fr,Periphery,Periphery
+221,Lepopulaire.fr,Periphery,Periphery
+222,Larep.fr,Periphery,Periphery
 223,Damocles.co,,
-224,Dreuz.info,Identitarian,Identitarian
-225,Reflets.info,Right Wing,Right Wing
-226,Lesnumeriques.com,IT & Consumer,IT & Consumer
-227,Lagazettedescommunes.com,Centre,Centre
+224,Dreuz.info,Counter-Informational Space,Counter-Informational Space
+225,Reflets.info,Opinion Journalism,Opinion Journalism
+226,Lesnumeriques.com,Periphery,Periphery
+227,Lagazettedescommunes.com,Mainstream Media,Mainstream Media
 228,Hypergames.com,,
 229,Rcf.fr,,
 230,Republiquedujapap.com,,
-231,Journaldunet.com,IT & Consumer,IT & Consumer
+231,Journaldunet.com,Periphery,Periphery
 232,Lesakerfrancophone.fr,,
 233,Tvl.fr,,
 234,Rugbyrama.fr,,
-235,Charentelibre.fr,PQR & Mag,PQR & Mag
+235,Charentelibre.fr,Periphery,Periphery
 237,Arabnews.fr,,
-238,Science-Et-Vie.com,Leisure and Health,Leisure and Health
+238,Science-Et-Vie.com,Periphery,Periphery
 239,Oisehebdo.fr,,
-240,Programme-Tv.net,Leisure and Health,Leisure and Health
+240,Programme-Tv.net,Periphery,Periphery
 241,Marsactu.fr,,
-242,Conspiracywatch.info,Right Wing,Right Wing
+242,Conspiracywatch.info,Opinion Journalism,Opinion Journalism
 243,Meteofrance.com,,
 244,Consultor.fr,,
 245,Cielvoile.fr,,
 246,Lilianeheldkhawam.com,,
 248,Pokekalos.fr,,
-249,Fakirpresse.info,Left Wing,Left Wing
+249,Fakirpresse.info,Opinion Journalism,Opinion Journalism
 250,Exoconscience.com,,
-251,Letribunaldunet.fr,Leisure and Health,Leisure and Health
+251,Letribunaldunet.fr,Periphery,Periphery
 252,Toutinfos.com,,
-253,Zdnet.fr,IT & Consumer,IT & Consumer
+253,Zdnet.fr,Periphery,Periphery
 254,Basketusa.com,,
-255,Phonandroid.com,IT & Consumer,IT & Consumer
+255,Phonandroid.com,Periphery,Periphery
 256,Reussir.fr,,
 257,Chartsinfrance.net,,
 258,Infomigrants.net,,
 259,Livrenoir.fr,,
 260,Goldnadel.tv,,
-262,Vanityfair.fr,Leisure and Health,Leisure and Health
+262,Vanityfair.fr,Periphery,Periphery
 263,Ign.com,,
-264,Linternaute.com,Leisure and Health,Leisure and Health
-265,Dalloz-Actualite.fr,Left Wing,Left Wing
+264,Linternaute.com,Periphery,Periphery
+265,Dalloz-Actualite.fr,Opinion Journalism,Opinion Journalism
 266,Profidecatholica.com,,
 267,Cointribune.com,,
 268,Russiepolitics.blogspot.com,,
-271,Lamarseillaise.fr,Left Wing,Left Wing
-272,Bondyblog.fr,Left Wing,Left Wing
-273,Onzemondial.com,PQR & Mag,PQR & Mag
-274,Madmoizelle.com,Leisure and Health,Leisure and Health
+271,Lamarseillaise.fr,Opinion Journalism,Opinion Journalism
+272,Bondyblog.fr,Opinion Journalism,Opinion Journalism
+273,Onzemondial.com,Periphery,Periphery
+274,Madmoizelle.com,Periphery,Periphery
 276,Le10Sport.com,,
-277,Lejsl.com,Hyper-local (East),Hyper-local (East)
+277,Lejsl.com,Periphery,Periphery
 278,Jim.fr,,
-280,Lesmoutonsenrages.fr,Revolutionary Right,Revolutionary Right
+280,Lesmoutonsenrages.fr,Counter-Informational Space,Counter-Informational Space
 281,H16Free.com,,
 282,Insolentiae.com,,
 283,Sortiraparis.com,,
-284,Rue89Strasbourg.com,Left Wing,Left Wing
+284,Rue89Strasbourg.com,Opinion Journalism,Opinion Journalism
 285,Xboxygen.com,,
 286,Kultt.fr,,
-287,Ohmymag.com,Leisure and Health,Leisure and Health
-288,Nordlittoral.fr,PQR & Mag,PQR & Mag
+287,Ohmymag.com,Periphery,Periphery
+288,Nordlittoral.fr,Periphery,Periphery
 289,Lvsl.fr,,
 290,Lavoiedelepee.blogspot.com,,
 291,Egora.fr,,
-292,Vosgesmatin.fr,Hyper-local (East),Hyper-local (East)
+292,Vosgesmatin.fr,Periphery,Periphery
 294,Real-France.fr,,
-295,Lechorepublicain.fr,Hyper-local (East),Hyper-local (East)
+295,Lechorepublicain.fr,Periphery,Periphery
 296,Attali.com,,
 297,Bebasket.fr,,
 298,Anthropo-Logiques.org,,
-299,Lest-Eclair.fr,PQR & Mag,PQR & Mag
+299,Lest-Eclair.fr,Periphery,Periphery
 300,Libreactu.fr,,
 301,News-24.fr,,
 304,Doctissimo.fr,,
-306,Letudiant.fr,Centre,Centre
-307,Maddyness.com,IT & Consumer,IT & Consumer
-308,Agoravox.fr,Revolutionary Right,Revolutionary Right
+306,Letudiant.fr,Mainstream Media,Mainstream Media
+307,Maddyness.com,Periphery,Periphery
+308,Agoravox.fr,Counter-Informational Space,Counter-Informational Space
 309,Generationfrexit.fr,,
 310,Acteurspublics.fr,,
-311,Journaldesfemmes.fr,Leisure and Health,Leisure and Health
+311,Journaldesfemmes.fr,Periphery,Periphery
 312,Lesjoiesducode.fr,,
 313,Radioclassique.fr,,
-314,Radiocourtoisie.fr,Identitarian,Identitarian
+314,Radiocourtoisie.fr,Counter-Informational Space,Counter-Informational Space
 315,Topmercato.com,,
 316,Actuforcesdelordre.fr,,
-317,Aoc.media,Left Wing,Left Wing
+317,Aoc.media,Opinion Journalism,Opinion Journalism
 318,Forbes.fr,,
 319,Xn--Franais-Xxa.es,,
 320,Maville.com,,
 321,Elucid.media,,
 322,Altselection.com,,
-323,Objectifgard.com,PQR & Mag,PQR & Mag
+323,Objectifgard.com,Periphery,Periphery
 324,Turbo.fr,,
-325,Trustmyscience.com,Leisure and Health,Leisure and Health
+325,Trustmyscience.com,Periphery,Periphery
 326,Nicepresse.com,,
 327,Afriquexxi.info,,
 328,Lepointcritique.fr,,
-329,Gqmagazine.fr,Leisure and Health,Leisure and Health
-330,Lepetitjournal.com,Centre,Centre
+329,Gqmagazine.fr,Periphery,Periphery
+330,Lepetitjournal.com,Mainstream Media,Mainstream Media
 331,Laminutedericardo.com,,
-332,Planet.fr,Leisure and Health,Leisure and Health
+332,Planet.fr,Periphery,Periphery
 333,Baslesmasques.com,,
-334,Lavie.fr,Right Wing,Right Wing
-335,Causette.fr,Centre,Centre
+334,Lavie.fr,Opinion Journalism,Opinion Journalism
+335,Causette.fr,Mainstream Media,Mainstream Media
 336,Creapills.com,,
 337,Centrepresseaveyron.fr,,
 338,Psgcommunity.com,,
@@ -320,7 +320,7 @@ id,name,category,sub_category
 340,Ski-Nordique.net,,
 341,Cbnews.fr,,
 342,Rci.fm,,
-343,Telestar.fr,Leisure and Health,Leisure and Health
+343,Telestar.fr,Periphery,Periphery
 344,Beinsports.com /fr-fr,,
 345,Pokegraph.com,,
 346,Leberry.fr,,
@@ -330,9 +330,9 @@ id,name,category,sub_category
 350,Contretemps.eu,,
 351,En-Attendant-Nadeau.fr,,
 352,Brunobertez.com,,
-353,Melty.fr,Leisure and Health,Leisure and Health
+353,Melty.fr,Periphery,Periphery
 354,Tradingsat.com,,
-355,Zinfos974.com,Right Wing,Right Wing
+355,Zinfos974.com,Opinion Journalism,Opinion Journalism
 356,Booska-P.com,,
 357,Rapportsdeforce.fr,,
 358,Brut.media,,
@@ -340,27 +340,27 @@ id,name,category,sub_category
 360,Disneyphile.fr,,
 361,Sports.fr,,
 362,Omertamedia.fr,,
-364,Aufeminin.com,Leisure and Health,Leisure and Health
-365,Lejdc.fr,Hyper-local (East),Hyper-local (East)
+364,Aufeminin.com,Periphery,Periphery
+365,Lejdc.fr,Periphery,Periphery
 366,Voltairenet.org,,
 367,Maligue2.fr,,
-368,Gamekult.com,IT & Consumer,IT & Consumer
+368,Gamekult.com,Periphery,Periphery
 369,Olympique-Et-Lyonnais.com,,
 370,Lasueur.com,,
 371,Lyonne.fr,,
 372,Radioj.fr,,
 373,Goal.com,,
-374,Moneyvox.fr,IT & Consumer,IT & Consumer
+374,Moneyvox.fr,Periphery,Periphery
 375,Loikleflochprigent.fr,,
 376,Revue-Ballast.fr,,
 377,Lebleudumiroir.fr,,
-378,Rue89Lyon.fr,Left Wing,Left Wing
+378,Rue89Lyon.fr,Opinion Journalism,Opinion Journalism
 379,Dragonballsuper-France.fr,,
 380,Rollingstone.fr,,
 381,Latribunedelart.com,,
-382,Autoplus.fr,Leisure and Health,Leisure and Health
+382,Autoplus.fr,Periphery,Periphery
 383,Tvadp.fr,,
-384,Canardpc.com,IT & Consumer,IT & Consumer
+384,Canardpc.com,Periphery,Periphery
 385,Tennisactu.net,,
 386,Lemondeinformatique.fr,,
 388,Tribunejuive.info,,
@@ -368,7 +368,7 @@ id,name,category,sub_category
 390,Sport.fr,,
 391,Famillechretienne.fr,,
 392,Laviedesidees.fr,,
-393,Boursier.com,Right Wing,Right Wing
+393,Boursier.com,Opinion Journalism,Opinion Journalism
 394,Comicsblog.fr,,
 395,Lecafedugeek.fr,,
 396,Israel247.org,,
@@ -376,29 +376,29 @@ id,name,category,sub_category
 398,Beauxarts.com,,
 399,Linforme.com,,
 400,Legeneraliste.fr,,
-401,60Millions-Mag.com,Hyper-centre,Hyper-centre
+401,60Millions-Mag.com,Mainstream Media,Mainstream Media
 402,Lequotidien.re,,
 403,Freelanceinfos.fr,,
 404,Foot-National.com,,
 405,Franceantilles.fr,,
 406,Neonmag.fr,,
 407,Cyclismactu.net,,
-408,Quechoisir.org,IT & Consumer,IT & Consumer
+408,Quechoisir.org,Periphery,Periphery
 409,Economiematin.fr,,
 410,Nova.fr,,
 411,Thinkerview.com,,
 412,Vakita.fr,,
 413,Philomag.com,,
 414,Aphadolie.com,,
-415,Lephoceen.fr,PQR & Mag,PQR & Mag
+415,Lephoceen.fr,Periphery,Periphery
 416,Ecranlarge.com,,
 417,Baz-Art.org,,
-418,Lechodelaboucle.fr,Leisure and Health,Leisure and Health
+418,Lechodelaboucle.fr,Periphery,Periphery
 419,Bsmart.fr,,
 420,Lanceuralerte.org,,
 421,Webgirondins.com,,
 423,Automobile-Propre.com,,
-425,Lsa-Conso.fr,IT & Consumer,IT & Consumer
+425,Lsa-Conso.fr,Periphery,Periphery
 426,Coinacademy.fr,,
 427,Linfo.re,,
 428,Cahiers-Pedagogiques.com,,
@@ -406,13 +406,13 @@ id,name,category,sub_category
 430,Transitionsenergies.com,,
 431,Lafranceliberee.fr,,
 432,Gameblog.fr,,
-433,Leblogalupus.com,Revolutionary Right,Revolutionary Right
+433,Leblogalupus.com,Counter-Informational Space,Counter-Informational Space
 434,Christec.net,,
-435,Yetiblog.org,Right Wing,Right Wing
+435,Yetiblog.org,Opinion Journalism,Opinion Journalism
 436,Jeuxactu.com,,
 437,Arteradio.com,,
-438,Sciencepost.fr,Leisure and Health,Leisure and Health
-439,Contexte.com,Centre,Centre
+438,Sciencepost.fr,Periphery,Periphery
+439,Contexte.com,Mainstream Media,Mainstream Media
 440,Hospimedia.fr,,
 441,Operanewsapp.com,,
 442,Athletv.fr,,
@@ -420,19 +420,19 @@ id,name,category,sub_category
 444,Mediabask.eus,,
 445,Foot01.com,,
 446,Lafranceagricole.fr,,
-447,Legrandsoir.info,Right Wing,Right Wing
+447,Legrandsoir.info,Opinion Journalism,Opinion Journalism
 448,Franceguyane.fr,,
 449,Tropiquesfm.com,,
 451,Whatsupdoc-Lemag.fr,,
 452,Contre-Attaque.net,,
-453,Fredzone.org,IT & Consumer,IT & Consumer
+453,Fredzone.org,Periphery,Periphery
 454,Equinoxmagazine.fr,,
 455,Lemessager.fr,,
 456,Maxifoot.fr,,
-457,Mariefrance.fr,Leisure and Health,Leisure and Health
+457,Mariefrance.fr,Periphery,Periphery
 458,Caradisiac.com,,
 459,Radioneo.org,,
-460,Dailygeekshow.com,Leisure and Health,Leisure and Health
+460,Dailygeekshow.com,Periphery,Periphery
 461,Vududroit.com,,
 462,Mirastnews.net,,
 463,Igen.fr,,
@@ -451,17 +451,17 @@ id,name,category,sub_category
 478,Nantes-Revoltee.com,,
 479,Comarketing-News.fr,,
 480,Komitid.fr,,
-481,Topsante.com,Leisure and Health,Leisure and Health
+481,Topsante.com,Periphery,Periphery
 482,Leddv.fr,,
-483,Agefi.fr,IT & Consumer,IT & Consumer
-484,Centre-Presse.fr,PQR & Mag,PQR & Mag
-485,Tendanceouest.com,PQR & Mag,PQR & Mag
+483,Agefi.fr,Periphery,Periphery
+484,Centre-Presse.fr,Periphery,Periphery
+485,Tendanceouest.com,Periphery,Periphery
 487,Gamergen.com,,
 488,Connaissancedesarts.com,,
 489,Connaissancedesenergies.org,,
-491,Macg.co,IT & Consumer,IT & Consumer
+491,Macg.co,Periphery,Periphery
 492,Welovetennis.fr,,
-493,La-Bas.org,Left Wing,Left Wing
+493,La-Bas.org,Opinion Journalism,Opinion Journalism
 494,Lamanchelibre.fr,,
 495,Touteleurope.eu,,
 496,Lhistoire.fr,,
@@ -471,24 +471,24 @@ id,name,category,sub_category
 501,Terrafemina.com,,
 502,Lejournaltoulousain.fr,,
 503,Multinationales.org,,
-504,Ndf.fr,Identitarian,Identitarian
+504,Ndf.fr,Counter-Informational Space,Counter-Informational Space
 505,Thebigwhale.io,,
 506,Projetarcadie.com,,
 507,Ktotv.com,,
 508,Coins.fr,,
-509,24Matins.fr,PQR & Mag,PQR & Mag
+509,24Matins.fr,Periphery,Periphery
 510,Etresouverain.com,,
 511,Xbox-Mag.net,,
 512,Ash.tm.fr,,
 513,Chassepassion.net,,
 514,Syndicalismehebdo.fr,,
 515,Meretmarine.com,,
-517,Generation-Nt.com,IT & Consumer,IT & Consumer
+517,Generation-Nt.com,Periphery,Periphery
 518,Lemondeencommun.info,,
 519,Jovanovic.com,,
 520,Revolution-Energetique.com,,
 521,Actugaming.net,,
-522,Lundi.am,Left Wing,Left Wing
+522,Lundi.am,Opinion Journalism,Opinion Journalism
 523,Nextplz.fr,,
 524,Africaintelligence.fr,,
 525,Neozone.org,,
@@ -498,17 +498,17 @@ id,name,category,sub_category
 529,Imerod.fr,,
 530,Begeek.fr,,
 531,Basketeurope.com,,
-533,Tomsguide.fr,IT & Consumer,IT & Consumer
-534,Lenouveleconomiste.fr,Right Wing,Right Wing
+533,Tomsguide.fr,Periphery,Periphery
+534,Lenouveleconomiste.fr,Opinion Journalism,Opinion Journalism
 535,Ouillade.eu,,
-536,Pourquoidocteur.fr,Leisure and Health,Leisure and Health
+536,Pourquoidocteur.fr,Periphery,Periphery
 537,Lebigdata.fr,,
-538,Corsenetinfos.corsica,PQR & Mag,PQR & Mag
+538,Corsenetinfos.corsica,Periphery,Periphery
 539,Autohebdo.fr,,
 540,Lachainemeteo.com,,
-541,Paris-Luttes.info,Left Wing,Left Wing
+541,Paris-Luttes.info,Opinion Journalism,Opinion Journalism
 542,Calciomio.fr,,
-543,Allodocteurs.fr,Leisure and Health,Leisure and Health
+543,Allodocteurs.fr,Periphery,Periphery
 544,Covidemence.com,,
 545,Radioorient.com,,
 546,Parisfans.fr,,
@@ -537,10 +537,10 @@ id,name,category,sub_category
 571,Lemagit.fr,,
 572,Befoot.net,,
 573,Vitisphere.com,,
-574,Rue89Bordeaux.com,Left Wing,Left Wing
+574,Rue89Bordeaux.com,Opinion Journalism,Opinion Journalism
 575,Paristeam.fr,,
 576,Lardennais.fr,,
-577,Jforum.fr,Identitarian,Identitarian
+577,Jforum.fr,Counter-Informational Space,Counter-Informational Space
 578,Chevallier.biz,,
 579,Automobile-Magazine.fr,,
 580,Maritima.info,,
@@ -562,7 +562,7 @@ id,name,category,sub_category
 597,Chassons.com,,
 598,Manga-News.com,,
 599,Observatoiredumensonge.com,,
-600,Psychologies.com,Leisure and Health,Leisure and Health
+600,Psychologies.com,Periphery,Periphery
 601,Livreshebdo.fr,,
 602,Lactucitoyenne.fr,,
 604,Footmarseille.com,,
@@ -571,16 +571,16 @@ id,name,category,sub_category
 607,Village-Justice.com,,
 608,Jhm.fr,,
 609,Purebreak.com,,
-610,Jeune-Nation.com,Identitarian,Identitarian
-611,Saphirnews.com,Right Wing,Right Wing
+610,Jeune-Nation.com,Counter-Informational Space,Counter-Informational Space
+611,Saphirnews.com,Opinion Journalism,Opinion Journalism
 612,Football.fr,,
-614,Santemagazine.fr,Leisure and Health,Leisure and Health
+614,Santemagazine.fr,Periphery,Periphery
 615,Armenews.com,,
-616,Al-Kanz.org,Hyper-centre,Hyper-centre
+616,Al-Kanz.org,Mainstream Media,Mainstream Media
 617,Lerubicon.org,,
-618,Grazia.fr,Hyper-centre,Hyper-centre
-619,Programme.tv,Leisure and Health,Leisure and Health
-620,Hitek.fr,Leisure and Health,Leisure and Health
+618,Grazia.fr,Mainstream Media,Mainstream Media
+619,Programme.tv,Periphery,Periphery
+620,Hitek.fr,Periphery,Periphery
 622,Cqfd-Journal.org,,
 623,Ukrinform.fr,,
 624,Lesonunique.com,,
@@ -588,35 +588,35 @@ id,name,category,sub_category
 626,Rojinfo.com,,
 627,Lesviolets.com,,
 629,Goodplanet.info,,
-630,Notretemps.com,IT & Consumer,IT & Consumer
-631,Caminteresse.fr,IT & Consumer,IT & Consumer
+630,Notretemps.com,Periphery,Periphery
+631,Caminteresse.fr,Periphery,Periphery
 632,Cieletespace.fr,,
 633,Cultureaddict.fr,,
-634,Aisnenouvelle.fr,PQR & Mag,PQR & Mag
+634,Aisnenouvelle.fr,Periphery,Periphery
 635,Divulgation.fr,,
 637,Citizen-Light.fr,,
 638,Pokebip.com,,
 639,Consoglobe.com,,
 640,Girondins4Ever.com,,
 641,Courrierdesbalkans.fr,,
-642,Lebonbon.fr,Leisure and Health,Leisure and Health
+642,Lebonbon.fr,Periphery,Periphery
 643,Histoiredupsg.fr,,
 644,Journalducm.com,,
 645,Lesnouvellesnews.fr,,
-646,Silicon.fr,IT & Consumer,IT & Consumer
+646,Silicon.fr,Periphery,Periphery
 647,Revueconflits.com,,
-648,Nice-Provence.info,Identitarian,Identitarian
+648,Nice-Provence.info,Counter-Informational Space,Counter-Informational Space
 649,Zataz.com,,
 650,Rugby-Addict.com,,
 651,Actu-Mag.fr,,
 652,E-Marketing.fr,,
 653,By-Jipp.blogspot.com,,
 654,Michelonfray.com,,
-655,A-Droite-Fierement.fr,Identitarian,Identitarian
-656,Revue-Elements.com,Identitarian,Identitarian
+655,A-Droite-Fierement.fr,Counter-Informational Space,Counter-Informational Space
+656,Revue-Elements.com,Counter-Informational Space,Counter-Informational Space
 657,Intelligenceonline.fr,,
 658,Lequotidiendusport.fr,,
-660,Citoyens-Et-Francais.fr,Identitarian,Identitarian
+660,Citoyens-Et-Francais.fr,Counter-Informational Space,Counter-Informational Space
 661,Maire-Info.com,,
 663,Legavox.fr,,
 664,Lanceurdalerte.info,,
@@ -630,10 +630,10 @@ id,name,category,sub_category
 674,Blog-Nouvelles-Technologies.fr,,
 675,Iphonesoft.fr,,
 677,Herodote.net,,
-678,Alalumieredunouveaumonde.blogspot.com,Revolutionary Right,Revolutionary Right
+678,Alalumieredunouveaumonde.blogspot.com,Counter-Informational Space,Counter-Informational Space
 679,Sortirdunucleaire.org,,
 680,Carenews.com,,
-681,Rebellyon.info,Left Wing,Left Wing
+681,Rebellyon.info,Opinion Journalism,Opinion Journalism
 682,Infoclimat.fr,,
 683,Terre-Net.fr,,
 684,Passeportsante.net,,
@@ -675,7 +675,7 @@ id,name,category,sub_category
 722,Meteo-Villes.com,,
 724,Larevuedudigital.com,,
 725,Lechotouristique.com,,
-726,Frenchweb.fr,IT & Consumer,IT & Consumer
+726,Frenchweb.fr,Periphery,Periphery
 727,Iatranshumanisme.com,,
 728,Boursedirect.fr,,
 729,Bitcoin.fr,,
@@ -683,7 +683,7 @@ id,name,category,sub_category
 731,Editoweb.eu,,
 732,Macron.watch,,
 733,France-Catholique.fr,,
-734,Lerevenu.com,Left Wing,Left Wing
+734,Lerevenu.com,Opinion Journalism,Opinion Journalism
 735,Lequotidiendupharmacien.fr,,
 736,Directvelo.com,,
 738,Medisite.fr,,
@@ -712,10 +712,10 @@ id,name,category,sub_category
 762,Lejournaldesarts.fr,,
 763,Ville-Rail-Transports.com,,
 765,Areion24.news,,
-766,Lejournaldesentreprises.com,IT & Consumer,IT & Consumer
+766,Lejournaldesentreprises.com,Periphery,Periphery
 767,Lequotidiendelart.com,,
 768,Elishean777.com,,
-769,Herault-Tribune.com,PQR & Mag,PQR & Mag
+769,Herault-Tribune.com,Periphery,Periphery
 770,Veridik.fr,,
 771,Myjournal.fr,,
 772,Minurne.org,,
